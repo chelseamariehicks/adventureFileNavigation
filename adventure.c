@@ -1,15 +1,10 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #1
- * Due Date: July 9, 2020 by 11:59 PM
  * 
  * Description: Program reads a directory of room files created by buildrooms and
  * acts as the interface for playing the adventure game. The player moves along a 
  * path from connected room to connected room and tries to reach the end.
  * 
- * Resources include: CS344 documents, Geeks for Geeks, and StackOverflow
 ***********************************************************************************/
 
 #include <stdio.h>
