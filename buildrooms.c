@@ -1,9 +1,5 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #1
- * Due Date: July 9, 2020 by 11:59 PM
  * 
  * Description: The buildrooms file will create 7 rooms that are connected and
  * can be used to play the adventure game in the adventure.c file
